@@ -13,4 +13,9 @@ jobs:
         run: echo "welcome to acction"
 
       - name: checkout repo
-      
+        uses: actions/checkout@4.2.2
+
+      - name: list reop files
+        run: ls -la
+       
+        
