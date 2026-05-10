@@ -1,0 +1,11 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "A simple Python application",
+    "main": "src/app.py",
+    "scripts": {
+        "start": "python src/app.py"
+    },
+    "author": "Hatem",
+    "license": "MIT"
+}
