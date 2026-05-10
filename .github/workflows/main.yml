@@ -11,3 +11,6 @@ jobs:
     steps:
       - name: Print welcome message
         run: echo "welcome to acction"
+
+      - name: checkout repo
+      
